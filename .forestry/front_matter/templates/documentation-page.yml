@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/adding-a-new-blog-post-for-cosmetic-tattoos.md
 - docs/editing-in-forestry.md
