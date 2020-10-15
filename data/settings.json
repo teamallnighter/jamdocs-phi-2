@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Cosmetic Tattoo Blog Posts ",
+      "topics": [
+        {
+          "title": "Creating A New Post ",
+          "slug": "new-ct-post"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
