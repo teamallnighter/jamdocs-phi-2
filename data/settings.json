@@ -1,16 +1,7 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
-      "topics": [
-        {
-          "title": "Getting started",
-          "slug": "getting-started"
-        }
-      ]
-    },
-    {
-      "section": "Cosmetic Tattoo Blog Posts ",
+      "section": "Cosmetic Tattoo",
       "topics": [
         {
           "title": "Creating A New Post ",
