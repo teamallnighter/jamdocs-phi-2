@@ -4,8 +4,8 @@
       "section": "Cosmetic Tattoo",
       "topics": [
         {
-          "title": "Setting The Options",
-          "slug": "ct-post-1-content-options"
+          "title": "SEO And Social Sharing Options",
+          "slug": "ct-post-1-content-seo"
         },
         {
           "title": "Creating A New Post ",
@@ -14,6 +14,10 @@
         {
           "title": "Adding content to your new post",
           "slug": "ct-post-1-content"
+        },
+        {
+          "title": "Setting The Options",
+          "slug": "ct-post-1-content-options"
         }
       ]
     }
