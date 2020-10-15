@@ -2,7 +2,12 @@
   "sidebar": [
     {
       "section": "General SEO Tips",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Social Media Posts ",
+          "slug": "seo-tips-sharing"
+        }
+      ]
     },
     {
       "section": "Cosmetic Tattoo",
