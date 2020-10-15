@@ -4,6 +4,10 @@
       "section": "Cosmetic Tattoo",
       "topics": [
         {
+          "title": "Adding content to your new post",
+          "slug": "ct-post-1-content"
+        },
+        {
           "title": "Creating A New Post ",
           "slug": "ct-post-1"
         }
