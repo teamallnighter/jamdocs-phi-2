@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Cosmetic Tattoo Blog Posts ",
-      "topics": [
-        {
-          "title": "Creating A New Post ",
-          "slug": "new-ct-post"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
@@ -19,15 +10,11 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Cosmetic Tattoo Blog Posts ",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Creating A New Post ",
+          "slug": "new-ct-post"
         }
       ]
     }
