@@ -4,6 +4,10 @@
       "section": "Cosmetic Tattoo",
       "topics": [
         {
+          "title": "Setting The Options",
+          "slug": "ct-post-1-content-options"
+        },
+        {
           "title": "Creating A New Post ",
           "slug": "ct-post-1"
         },
