@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "General Website Stuff",
+      "topics": [
+        {
+          "title": "Creating Links",
+          "slug": "creating-links"
+        }
+      ]
+    },
+    {
       "section": "Cosmetic Tattoo",
       "topics": [
         {
