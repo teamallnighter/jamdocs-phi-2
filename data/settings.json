@@ -38,16 +38,16 @@
       "section": "General Website Stuff",
       "topics": [
         {
-          "title": "Adding SEO in Go Daddy",
-          "slug": "seo-go-daddy"
-        },
-        {
           "title": "Adding Meta Data",
           "slug": "meta-data"
         },
         {
           "title": "Creating Links",
           "slug": "creating-links"
+        },
+        {
+          "title": "Adding SEO in Go Daddy",
+          "slug": "seo-go-daddy"
         }
       ]
     }
