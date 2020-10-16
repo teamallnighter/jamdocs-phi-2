@@ -25,6 +25,10 @@
       "section": "General SEO Tips",
       "topics": [
         {
+          "title": "Meta-data in the <head>",
+          "slug": "metadata-head-tag"
+        },
+        {
           "title": "Social Media Posts ",
           "slug": "seo-tips-sharing"
         }
