@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.6//EN
+N:Connelly;Chris;;;
+FN:Chris Connelly
+ORG:chrisconnelly.dev;
+TITLE:WebDev/Owner/
+EMAIL;type=INTERNET;type=WORK;type=pref:me@chrisconnelly.dev
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(403) 477 3548
+ADR;type=HOME;type=pref:;;15 Falworth Place Ne;Calgary;Alberta;T3J  1G1;Canada
+item1.URL;type=pref:https://chrisconnelly.dev
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https://portfolio.chrisconnelly.dev
+item2.X-ABLabel:portfolio
+item3.URL:https://blog.chrisconnelly.dev
+item3.X-ABLabel:blog
+item4.URL:https://github.com/teamallnighter
+item4.X-ABLabel:Github
+item5.URL:https://facebook.com/chrisconnellydotdev
+item5.X-ABLabel:Facebook
+BDAY:1986-03-14
+END:VCARD
