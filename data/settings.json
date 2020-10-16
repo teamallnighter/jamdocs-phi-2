@@ -34,6 +34,10 @@
       "section": "General Website Stuff",
       "topics": [
         {
+          "title": "Adding Meta Data",
+          "slug": "meta-data"
+        },
+        {
           "title": "Creating Links",
           "slug": "creating-links"
         }
