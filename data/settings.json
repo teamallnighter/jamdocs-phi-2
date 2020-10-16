@@ -25,16 +25,16 @@
       "section": "General SEO Tips",
       "topics": [
         {
-          "title": "Using Google Chrome to find competitors keywords and meta data ",
-          "slug": "google-chrome-research"
-        },
-        {
           "title": "Meta-data in the <head>",
           "slug": "metadata-head-tag"
         },
         {
           "title": "Social Media Posts ",
           "slug": "seo-tips-sharing"
+        },
+        {
+          "title": "Using Google Chrome to find competitors keywords and meta data ",
+          "slug": "google-chrome-research"
         }
       ]
     },
