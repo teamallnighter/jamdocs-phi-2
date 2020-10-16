@@ -38,6 +38,10 @@
       "section": "General Website Stuff",
       "topics": [
         {
+          "title": "Adding SEO in Go Daddy",
+          "slug": "seo-go-daddy"
+        },
+        {
           "title": "Adding Meta Data",
           "slug": "meta-data"
         },
