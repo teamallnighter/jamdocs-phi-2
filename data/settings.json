@@ -4,12 +4,12 @@
       "section": "Piercing",
       "topics": [
         {
-          "title": "Piercing Jewelry Items",
-          "slug": "https://studio-phi-docs.netlify.app/creating-new-shop-items/#for-piercing"
-        },
-        {
           "title": "Piercing Portfolio",
           "slug": "piercing-portfolio"
+        },
+        {
+          "title": "Piercing Jewelry Items",
+          "slug": "https://studio-phi-docs.netlify.app/creating-new-shop-items/#for-piercing"
         }
       ]
     },
