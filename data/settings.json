@@ -10,23 +10,19 @@
       ]
     },
     {
-      "section": "Cosmetic Tattoo",
+      "section": "General Website Stuff",
       "topics": [
         {
-          "title": "Creating A New Post ",
-          "slug": "ct-post-1"
+          "title": "Adding Meta Data",
+          "slug": "meta-data"
         },
         {
-          "title": "Adding content to your new post",
-          "slug": "ct-post-1-content"
+          "title": "Creating Links",
+          "slug": "creating-links"
         },
         {
-          "title": "Setting The Options",
-          "slug": "ct-post-1-content-options"
-        },
-        {
-          "title": "SEO And Social Sharing Options",
-          "slug": "ct-post-1-content-seo"
+          "title": "Adding SEO in Go Daddy",
+          "slug": "seo-go-daddy"
         }
       ]
     },
@@ -48,19 +44,23 @@
       ]
     },
     {
-      "section": "General Website Stuff",
+      "section": "Cosmetic Tattoo",
       "topics": [
         {
-          "title": "Adding Meta Data",
-          "slug": "meta-data"
+          "title": "Creating A New Post ",
+          "slug": "ct-post-1"
         },
         {
-          "title": "Creating Links",
-          "slug": "creating-links"
+          "title": "Adding content to your new post",
+          "slug": "ct-post-1-content"
         },
         {
-          "title": "Adding SEO in Go Daddy",
-          "slug": "seo-go-daddy"
+          "title": "Setting The Options",
+          "slug": "ct-post-1-content-options"
+        },
+        {
+          "title": "SEO And Social Sharing Options",
+          "slug": "ct-post-1-content-seo"
         }
       ]
     }
