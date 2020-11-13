@@ -13,7 +13,7 @@ slug: piercing-portfolio
 * Enter The Post Title
 * Enter The Post Content
 
-### Tags And Categories 
+### Tags And Categories
 
 Category: Piercing Blog
 
@@ -31,7 +31,7 @@ If you are using content from a blog you created on your website, you can use th
 
 ## SEO
 
-Square space will generate this for you. If you would like to customize this you are welcome to. 
+Square space will generate this for you. If you would like to customize this you are welcome to.
 
 SEE:
 
