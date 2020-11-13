@@ -3,7 +3,10 @@
     {
       "section": "Getting Started",
       "topics": [
-
+        {
+          "title": "Getting Started",
+          "slug": "getting-started"
+        }
       ]
     },
     {
